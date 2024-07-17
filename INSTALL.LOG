@@ -1,0 +1,150 @@
+***  Installation Started 07/16/2024 10:42  ***
+Title: ACDSee Full Version Installation
+Source: D:\From max\Acdsee 3.0\Setup.exe
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: 642356190261002441
+RegDB Name: LicenseNumber
+RegDB Root: 2
+Made Dir: D:\Program Files (x86)
+File Copy: D:\Program Files (x86)\ACD\ACDSee\ACDSee.GID
+File Copy: D:\Program Files (x86)\ACD\ACDSee\ACDSee.FTS
+File Copy: D:\Program Files (x86)\ACD\ACDSee\Install.log
+Execute Path: D:\Program Files (x86)\ACD\ACDSee\ACDSee.exe /uninstall
+Made Dir: D:\Program Files (x86)\ACD
+Made Dir: D:\Program Files (x86)\ACD\ACDSee
+File Copy: D:\Program Files (x86)\ACD\ACDSee\ACDSee.exe
+File Copy: D:\Program Files (x86)\ACD\ACDSee\ACDSee.cnt
+File Copy: D:\Program Files (x86)\ACD\ACDSee\ACDSee.hlp
+File Copy: D:\Program Files (x86)\ACD\ACDSee\splash.jpg
+File Copy: D:\Program Files (x86)\ACD\ACDSee\ToolBar-Background.jpg
+RegDB Key: Software\ACD Systems\PlugIns
+RegDB Val: D:\Program Files (x86)\ACD\PlugIns
+RegDB Name: PIFolder
+RegDB Root: 2
+Made Dir: D:\Program Files (x86)\ACD\PlugIns
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ax_lha.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ax_zip.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\AX_Susie.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\CX_HTML.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\acdcp.dll
+File Copy: D:\Program Files (x86)\ACD\PlugIns\CX_JPEGTrans.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\CX_SendPix.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\IDE_ACDStd.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_AVI.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_EPS.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_FPX.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ijl10.dll
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_ICO.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_IFF.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_KDC.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\DC120V154_32.dll
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_Mag.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_MPG.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_PhotoCD.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_PIC.APL
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_PICT.APL
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_PIX.APL
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_PNM.APL
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_PSD.APL
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_RAS.APL
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_SGI.APL
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_Susie.apl
+File Copy: D:\Program Files (x86)\ACD\PlugIns\ID_X.apl
+File Copy: D:\Program Files (x86)\ACD\ACDSee\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\ACDSee
+RegDB Val: ACDSee
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\ACDSee
+RegDB Val: D:\Program Files (x86)\ACD\ACDSee\UNWISE.EXE D:\Program Files (x86)\ACD\ACDSee\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: D:\Program Files (x86)\ACD\ACDSee\Shortcuts
+Shell Link: D:\Program Files (x86)\ACD\ACDSee\Shortcuts\(c).lnk
+Shell Link: D:\Program Files (x86)\ACD\ACDSee\Shortcuts\(d).lnk
+Shell Link: D:\Program Files (x86)\ACD\ACDSee\Shortcuts\(f).lnk
+Shell Link: D:\Program Files (x86)\ACD\ACDSee\Shortcuts\(g).lnk
+Shell Link: D:\Program Files (x86)\ACD\ACDSee\Shortcuts\(h).lnk
+Shell Link: D:\Program Files (x86)\ACD\ACDSee\Shortcuts\(i).lnk
+Shell Link: D:\Program Files (x86)\ACD\ACDSee\Shortcuts\ACDSee.lnk
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ACDSee.exe
+RegDB Val: D:\Program Files (x86)\ACD\ACDSee\ACDSee.exe
+RegDB Root: 2
+RegDB Key: SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ACDSee.exe
+RegDB Val: D:\Program Files (x86)\ACD\ACDSee
+RegDB Name: Path
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\Help
+RegDB Val: D:\Program Files (x86)\ACD\ACDSee
+RegDB Name: ACDSee.hlp
+RegDB Root: 2
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: D:\Program Files (x86)\ACD\ACDSee\ImageDB.dtf
+RegDB Name: ImageDB
+RegDB Root: 1
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: 642356190261002441
+RegDB Name: LicenseNumber
+RegDB Root: 2
+RegDB Old: 642356190261002441
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: Himadri
+RegDB Name: UserName
+RegDB Root: 2
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: Himadri
+RegDB Name: CompanyName
+RegDB Root: 2
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: himadrichakrabortydip@gmail.com
+RegDB Name: UserEMail
+RegDB Root: 2
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: 01000000
+RegDB Name: ShellBrowseAssoc
+RegDB Root: 1
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: 01000000
+RegDB Name: ShellViewAssoc
+RegDB Root: 1
+RegDB Key: SOFTWARE\ACD Systems\ACDSee
+RegDB Val: 01000000
+RegDB Name: ShellPrintAssoc
+RegDB Root: 1
+RegDB Key: .ais
+RegDB Val: ACDSee.AIS
+RegDB Key: .ais\ShellNew
+RegDB Val: 
+RegDB Name: NullFile
+RegDB Key: ACDSee.AIS
+RegDB Val: ACDSee Image Sequence
+RegDB Key: ACDSee.AIS
+RegDB Val: 00000000
+RegDB Name: EditFlags
+RegDB Key: ACDSee.AIS\DefaultIcon
+RegDB Val: D:\Program Files (x86)\ACD\ACDSee\ACDSee.exe,2
+RegDB Key: ACDSee.AIS\Shell
+RegDB Val: Open
+RegDB Key: ACDSee.AIS\Shell\edit
+RegDB Val: Text Edit
+RegDB Key: ACDSee.AIS\Shell\edit\command
+RegDB Val: notepad.exe %1
+RegDB Key: ACDSee.AIS\Shell\open
+RegDB Val: View images
+RegDB Key: ACDSee.AIS\Shell\open\command
+RegDB Val: "D:\Program Files (x86)\ACD\ACDSee\ACDSee.exe" /dde
+RegDB Key: ACDSee.AIS\Shell\open\DDEExec
+RegDB Val: [open("%1")]
+RegDB Key: ACDSee.AIS\Shell\open\DDEExec\Application
+RegDB Val: ACDSee
+RegDB Key: ACDSee.AIS\Shell\open\DDEExec\Topic
+RegDB Val: System
+Made Dir: C:\Users\Himadri\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ACD Systems
+Shell Link: C:\Users\Himadri\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ACD Systems\ACDSee Browser.lnk
+Shell Link: C:\Users\Himadri\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ACD Systems\ACDSee Viewer.lnk
+Shell Link: C:\Users\Himadri\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ACD Systems\ACDSee Help.lnk
+Shell Link: C:\Users\Himadri\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ACD Systems\ACDSee Uninstall.lnk
+User Rights: Admin
